@@ -1,5 +1,4 @@
 Menu for the Day:
-Menu for the Day:
 Adobo Dishes:
 - Adobong Baboy
 - Adobong Manok
@@ -10,3 +9,8 @@ Ginataan Menu:
 - Ginataang Alimasag
 - Ginataang Halo-Halo
 - Ginataang Mais
+Friday Specials:
+- Munggo
+- Porkchop
+- Sisig
+- Tokwa't Baboy
