@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Menu for the Day:
+<<<<<<< HEAD
 =======
 Menu for the Day:
 Adobo Dishes:
@@ -7,3 +8,10 @@ Adobo Dishes:
 - Adobong Manok
 - Humba
 >>>>>>> Adobo
+=======
+Sinigang Menu:
+- Sinigang na Baboy
+- Sinigang na Bangus
+- Sinigang na Hipon
+- Sinampalukang Manok
+>>>>>>> Sinigang
