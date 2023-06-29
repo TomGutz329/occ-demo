@@ -1,5 +1,4 @@
 Menu for the Day:
-- Sinigang na Baboy
-- Sinigang na Bangus
-- Sinigang na Hipon
-- Sinampalukang Manok
+- Adobong Baboy
+- Adobong Manok
+- Humba
